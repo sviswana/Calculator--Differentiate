@@ -1,0 +1,13 @@
+CONSTANT=5
+PLUS=1
+WS=8
+RIGHTP=7
+DOT=3
+MULTIPLY=2
+LEFTP=6
+VARNAME=4
+'('=6
+'*'=2
+'+'=1
+')'=7
+'.'=3
